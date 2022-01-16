@@ -7,6 +7,8 @@ Grafisk profilering for Norsk programmering-fellesskapet.
 
 * Råfilene er laget i [Inkscape](https://inkscape.org). Det er anbefalt at du redigerer filene i dette programmet for å unngå tap av data.
 
+* Serverens tidligere grafiske profil ligger i "legacy".
+
 ## Bilder
 
 ### Server-ikon
