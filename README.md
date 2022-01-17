@@ -5,7 +5,7 @@ Grafisk profilering for Norsk programmering-fellesskapet.
 
 * Du finner de ferdige filene i "exports", og råfilene i "src".
 
-* Råfilene er laget i [Inkscape](https://inkscape.org). Det er anbefalt at du redigerer filene i dette programmet for å unngå tap av data.
+* Råfilene er laget i [Inkscape](https://inkscape.org).
 
 * Serverens tidligere grafiske profil ligger i "legacy".
 
