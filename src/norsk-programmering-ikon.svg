@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="fill:#ba0c2f;fill-opacity:1;stroke-width:15;stroke-linecap:round;stroke-linejoin:round"
+       id="rect843"
+       width="1080"
+       height="1080"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     id="layer2"
+     style="display:inline">
+    <g
+       id="g6615"
+       transform="matrix(1.1188211,0,0,1.1188211,-77.287691,-70.028461)"
+       style="stroke-width:0.893795" />
+    <path
+       id="path998"
+       style="color:#000000;fill:#003ba7;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 363.23112,390.80239 v 85.79759 l -158.5301,84.84963 158.52931,84.84964 -9e-5,42.89836 -238.67869,-127.74798 v -42.89879 z" />
+    <path
+       id="path17024"
+       style="color:#000000;fill:#ffffff;stroke-width:0.999999;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 363.23112,390.80239 v 42.8988 l -158.5301,84.84963 158.52931,84.84963 -9e-5,42.89837 -238.67869,-127.74798 z" />
+    <path
+       id="path10097"
+       style="color:#000000;fill:#003ba7;fill-opacity:1;stroke-width:0.999999;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 716.76888,390.80239 v 85.79759 l 158.5301,84.84963 -158.52931,84.84964 9e-5,42.89836 238.67869,-127.74798 v -42.89879 z" />
+    <path
+       id="path10099"
+       style="color:#000000;fill:#ffffff;stroke-width:0.999999;stroke-linecap:round;-inkscape-stroke:none"
+       d="m 716.76888,390.80239 v 42.8988 l 158.5301,84.84963 -158.52931,84.84963 9e-5,42.89837 238.67869,-127.74798 z" />
+    <path
+       style="fill:#003ba7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 404.46358,710.40841 v 42.89835 l 37.15108,21.44919 233.92176,-405.16437 v -42.89835 l -37.15108,-21.44918 z"
+       id="path25205" />
+    <path
+       id="rect10615"
+       style="fill:#ffffff;stroke-width:30;stroke-linecap:round"
+       d="M 675.53642,326.69323 441.61466,731.8576 404.46358,710.40841 638.38534,305.24405 Z" />
+  </g>
+</svg>
