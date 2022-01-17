@@ -7,163 +7,123 @@
    viewBox="0 0 1920 1080"
    version="1.1"
    id="svg5"
-   sodipodi:docname="norsk-programmering-banner.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   inkscape:export-filename="/home/brage/Pictures/norsk-programmering-banner.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#484848"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="true"
-     inkscape:document-units="px"
-     showgrid="false"
-     units="px"
-     scale-x="1"
-     inkscape:showpageshadow="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-page="true"
-     inkscape:zoom="0.39307519"
-     inkscape:cx="725.05213"
-     inkscape:cy="489.72819"
-     inkscape:window-width="1487"
-     inkscape:window-height="1011"
-     inkscape:window-x="242"
-     inkscape:window-y="146"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer4" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <linearGradient
+       id="linearGradient7689">
+      <stop
+         style="stop-color:#ba0c2f;stop-opacity:1;"
+         offset="0"
+         id="stop7685" />
+      <stop
+         style="stop-color:#9c1330;stop-opacity:0.99607843;"
+         offset="0.30000001"
+         id="stop8525" />
+      <stop
+         style="stop-color:#2f3136;stop-opacity:0.99489367"
+         offset="1"
+         id="stop7687" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient7689"
+       id="linearGradient7691"
+       x1="960.00006"
+       y1="-22.861094"
+       x2="960.00012"
+       y2="1102.8616"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-1920)" />
+  </defs>
   <g
-     inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="bakgrunn"
-     sodipodi:insensitive="true"
      style="display:inline">
     <rect
-       style="fill:#ba0c2f;fill-opacity:1;stroke-width:30;stroke-linecap:round"
+       style="fill:url(#linearGradient7691);fill-opacity:1;stroke-width:30;stroke-linecap:round"
        id="rect1090"
        width="1920"
        height="1080"
-       x="0"
-       y="0" />
+       x="-1920"
+       y="0"
+       transform="scale(-1,1)" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="logo">
+     id="layer4">
     <g
-       id="layer2-3"
-       inkscape:label="shape"
-       style="display:inline;stroke-width:1.61553"
-       transform="matrix(0.61899064,0,0,0.61899064,25.189615,305.92436)">
+       id="g16930"
+       transform="matrix(1.0867807,0,0,1.0867807,100.15153,-96.259877)"
+       style="stroke-width:0.920149">
       <g
-         id="g6615-5"
-         transform="matrix(1.1188211,0,0,1.1188211,-77.287691,-70.028461)"
-         style="stroke-width:1.44396" />
-      <g
-         id="g10095-6"
-         transform="translate(0,-21.44939)"
-         style="stroke-width:1.61553">
+         id="layer2-3"
+         style="display:inline;stroke-width:1.48653"
+         transform="matrix(0.61899064,0,0,0.61899064,25.189615,305.92436)">
+        <g
+           id="g6615-5"
+           transform="matrix(1.1188211,0,0,1.1188211,-77.287691,-70.028461)"
+           style="stroke-width:1.32866" />
         <path
            id="path998-2"
-           style="color:#000000;fill:#00205b;fill-opacity:1;stroke-width:1.61553;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 363.23112,412.25178 v 85.79759 l -158.5301,84.84963 158.52931,84.84964 -9e-5,42.89836 -238.67869,-127.74798 v -42.89879 z"
-           sodipodi:nodetypes="cccccccc" />
+           style="color:#000000;fill:#003ba7;fill-opacity:1;stroke-width:1.48653;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 363.23112,390.80239 v 85.79759 l -158.5301,84.84963 158.52931,84.84964 -9e-5,42.89836 -238.67869,-127.74798 v -42.89879 z" />
         <path
            id="path17024-9"
-           style="color:#000000;fill:#ffffff;stroke-width:1.61553;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 363.23112,412.25178 v 42.8988 l -158.5301,84.84963 158.52931,84.84963 -9e-5,42.89837 -238.67869,-127.74798 z"
-           sodipodi:nodetypes="ccccccc" />
-      </g>
-      <g
-         id="g10101-1"
-         transform="matrix(-1,0,0,1,1080,-21.44939)"
-         style="stroke-width:1.61553">
+           style="color:#000000;fill:#ffffff;stroke-width:1.48653;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 363.23112,390.80239 v 42.8988 l -158.5301,84.84963 158.52931,84.84963 -9e-5,42.89837 -238.67869,-127.74798 z" />
         <path
            id="path10097-2"
-           style="color:#000000;fill:#00205b;fill-opacity:1;stroke-width:1.61553;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 363.23112,412.25178 v 85.79759 l -158.5301,84.84963 158.52931,84.84964 -9e-5,42.89836 -238.67869,-127.74798 v -42.89879 z"
-           sodipodi:nodetypes="cccccccc" />
+           style="color:#000000;fill:#003ba7;fill-opacity:1;stroke-width:1.48653;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 716.76888,390.80239 v 85.79759 l 158.5301,84.84963 -158.52931,84.84964 9e-5,42.89836 238.67869,-127.74798 v -42.89879 z" />
         <path
            id="path10099-7"
-           style="color:#000000;fill:#ffffff;stroke-width:1.61553;stroke-linecap:round;-inkscape-stroke:none"
-           d="m 363.23112,412.25178 v 42.8988 l -158.5301,84.84963 158.52931,84.84963 -9e-5,42.89837 -238.67869,-127.74798 z"
-           sodipodi:nodetypes="ccccccc" />
-      </g>
-      <g
-         id="g40717-0"
-         transform="translate(0,-21.44918)"
-         style="stroke-width:1.61553">
+           style="color:#000000;fill:#ffffff;stroke-width:1.48653;stroke-linecap:round;-inkscape-stroke:none"
+           d="m 716.76888,390.80239 v 42.8988 l 158.5301,84.84963 -158.52931,84.84963 9e-5,42.89837 238.67869,-127.74798 z" />
         <path
-           style="fill:#00205b;fill-opacity:1;stroke:none;stroke-width:1.61553px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 404.46358,731.85759 v 42.89835 l 37.15108,21.44919 233.92176,-405.16437 v -42.89835 l -37.15108,-21.44918 z"
+           style="fill:#003ba7;fill-opacity:1;stroke:none;stroke-width:1.48653px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 404.46358,710.40841 v 42.89835 l 37.15108,21.44919 233.92176,-405.16437 v -42.89835 l -37.15108,-21.44918 z"
            id="path25205-9" />
         <path
            id="rect10615-3"
-           style="fill:#ffffff;stroke-width:48.4659;stroke-linecap:round"
-           d="M 675.53642,348.14241 441.61466,753.30678 404.46358,731.85759 638.38534,326.69323 Z"
-           sodipodi:nodetypes="ccccc" />
+           style="fill:#ffffff;stroke-width:44.5959;stroke-linecap:round"
+           d="M 675.53642,326.69323 441.61466,731.8576 404.46358,710.40841 638.38534,305.24405 Z" />
       </g>
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:59.812px;line-height:0.6;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.999999"
-       x="720.68768"
-       y="471.83929"
+       style="font-style:normal;font-weight:normal;font-size:41.5727px;line-height:0.6;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1"
+       x="900.78485"
+       y="489.66553"
        id="text84960"><tspan
-         sodipodi:role="line"
-         x="720.68768"
-         y="471.83929"
+         x="900.78485"
+         y="489.66553"
          id="tspan92014"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999" /><tspan
-         sodipodi:role="line"
-         x="720.68768"
-         y="543.61371"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1" /><tspan
+         x="900.78485"
+         y="539.5528"
          id="tspan99116"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999">{</tspan><tspan
-         sodipodi:role="line"
-         x="720.68768"
-         y="619.20422"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1">{</tspan><tspan
+         x="900.78485"
+         y="592.09241"
          id="tspan84962"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999">  &quot;<tspan
-   style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';fill:#ffffff;fill-opacity:1;stroke-width:1">  &quot;<tspan
+   style="fill:#ffffff;fill-opacity:1;stroke-width:1"
    id="tspan171462">server</tspan>&quot; : {</tspan><tspan
-         sodipodi:role="line"
          id="tspan105517"
-         x="720.68768"
-         y="692.88672"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999"><tspan
+         x="900.78485"
+         y="643.30591"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1"><tspan
    id="tspan107281"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';fill:#ffffff;fill-opacity:1;stroke-width:0.999999">    &quot;n</tspan>avn&quot; : &quot;Norsk programmering&quot;</tspan><tspan
-         sodipodi:role="line"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Mono';-inkscape-font-specification:'Noto Mono';fill:#ffffff;fill-opacity:1;stroke-width:1">    &quot;name</tspan>&quot; : &quot;Norsk programmering&quot;</tspan><tspan
          id="tspan105519"
-         x="720.68768"
-         y="764.66113"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999">  }</tspan><tspan
-         sodipodi:role="line"
+         x="900.78485"
+         y="693.19312"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1">  }</tspan><tspan
          id="tspan105521"
-         x="720.68768"
-         y="800.54828"
-         style="fill:#ffffff;fill-opacity:1;stroke-width:0.999999">}</tspan></text>
+         x="900.78485"
+         y="718.13678"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1">}</tspan></text>
   </g>
   <g
-     inkscape:label="referanse"
-     inkscape:groupmode="layer"
      id="layer1" />
 </svg>
